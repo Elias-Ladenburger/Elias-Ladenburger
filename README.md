@@ -9,7 +9,7 @@ To find out more about me, visit https://eliasladenburger.com.
 
 
 
-## Have a wonderful day!
+## Have a wonderful day! 🚀
 
 <!--
 **Elias-Ladenburger/Elias-Ladenburger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
