@@ -5,7 +5,7 @@ I am a freelance tech consultant with over 10 years of experience across small s
 
 This is my personal Github profile, where I try out different technologies and prototype ideas and side projects.
 
-To find out more about me, visit [https://eliasladenburger.com].
+To find out more about me, visit https://eliasladenburger.com.
 
 
 
